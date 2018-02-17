@@ -34,3 +34,15 @@ h3 {
   height: 100px;
   margin 10px 0;
   width: 100%;
+  
+  .element1 {
+    background-color: blue;
+}
+  
+  .element2 {
+    background-color: red;
+}
+  
+  .element3 {
+    background-color: orange;
+}   
