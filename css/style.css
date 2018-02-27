@@ -20,7 +20,7 @@ h1 {
   font-size: 2em;
 }
 
-.exampleh3 {
+.example h3 {
   padding-top: 30px;
   text-align: center;
 }
@@ -38,21 +38,12 @@ h3 {
 
 .element1 {
   background-color: blue;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
 }
 
 .element2 {
   background-color: red;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
 }
 
 .element3 {
   background-color: pink;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
 }
